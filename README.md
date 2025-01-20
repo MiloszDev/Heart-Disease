@@ -46,7 +46,7 @@ These metrics demonstrate the model's reliability in detecting heart disease.
 
 ## File Structure
 
-- `heart_disease_detection.py`: Contains the implementation of the model.
+- `heart_disease_detection.ipynb`: Contains the implementation of the model.
 - `heart_disease_data.csv`: The dataset used for training and evaluation.
 - `README.md`: Provides an overview of the project.
 
